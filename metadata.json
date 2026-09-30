@@ -1,0 +1,6 @@
+{
+  "name": "Affiliate Offer Validator | فاحص عرض الأفلييت",
+  "description": "أداة تقييم جودة عروض الأفلييت وفحص ملاءمة الجمهور والمخاطر واقتصاديات العمولة قبل استثمار الوقت والمال - فكر كنظام وليس مجرد رابط.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
